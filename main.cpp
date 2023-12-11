@@ -3,6 +3,6 @@
 using namespace std;
 
 int main() {
-	Game game;
-	game.Play();
+    Game game;  // Instantiate a Game
+    game.Play();  // Play the game
 }
